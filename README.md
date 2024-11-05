@@ -1,4 +1,4 @@
-<h1 align="center">🌱<br>fF<br>Full stack Developer (Django)</h1>
+<h1 align="center">fF<br>Full stack Developer (Django)</h1>
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,lua,django,jquery,htmx)](https://skillicons.dev)
