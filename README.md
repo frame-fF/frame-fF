@@ -1,4 +1,4 @@
-<h1 align="center">fF</h1>
+<h1 align="center">fF 🌱</h1>
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,lua,django,jquery,htmx)](https://skillicons.dev)
