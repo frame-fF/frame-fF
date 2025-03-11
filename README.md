@@ -11,5 +11,5 @@ print('🌱')
 </div>
 
 ```
-Power of the past 🚀
+I will find my way 🚀
 ```
