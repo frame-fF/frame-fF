@@ -1,6 +1,12 @@
 <h1 align="center">fF</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=python,lua,django,jquery,htmx)](https://skillicons.dev)
+### Language
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,dart,lua)](https://skillicons.dev)
+
+### Framework
+
+[![My Skills](https://skillicons.dev/icons?i=django,jquery,htmx,flutter)](https://skillicons.dev)
 
 ```
 print('🌱')
