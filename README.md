@@ -6,9 +6,18 @@
 
 ### Framework
 
-[![My Skills](https://skillicons.dev/icons?i=django,jquery,htmx,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,jquery,htmx,flutter,bootstrap,tailwind)](https://skillicons.dev)
+
+### OS
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi)](https://skillicons.dev)
+
+### Database
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,)](https://skillicons.dev)
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=341c33661e3d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 
 ```
 print('🌱')
