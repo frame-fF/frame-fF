@@ -6,7 +6,7 @@
 
 ### Framework
 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,jquery,htmx,flutter,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,jquery,htmx,flutter,bootstrap,tailwind)](https://skillicons.dev)
 
 ### OS
 
