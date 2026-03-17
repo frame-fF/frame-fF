@@ -6,7 +6,7 @@
 
 ### Framework
 
-<img src="https://vos.line-scdn.net/line-api-web-cms/ogtag.jpeg" height="50"></a> [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,jquery,htmx,bootstrap,tailwind)](https://skillicons.dev)  <img src="https://django-ninja.rest-framework.com/img/logo-big.png" height="50"></a> <img src="https://flet.dev/img/logo.svg" height="50"></a>
+<img src="https://vos.line-scdn.net/line-api-web-cms/ogtag.jpeg" height="50"></a> [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,jquery,htmx,bootstrap,tailwind)](https://skillicons.dev)  <img src="https://django-ninja.rest-framework.com/img/logo-big.png" height="50"></a> <img src="https://flet.dev/img/logo.svg" height="50"></a> <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/author-images/progress-blog-default-logo-transparent.png" height="50"></a>
 
 ### OS
 
